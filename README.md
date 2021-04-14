@@ -32,16 +32,24 @@ __ File 'oli_plugin.php'
 
 ## Installation
 
-1. download the plugin here (compressed file)
+1. download the plugin [here](https://github.com/OlivierCharlier/button_up_WP_plugin/raw/main/oli_plugin_april_2021.zip) (a .zip file)
 2. go to WordPress admin area and visit Plugins » Add New page
 3. click on the ‘Upload Plugin’ button on top of the page
 4. click on the ‘Choose File’ button and select the plugin file
 5. click on the ‘Install Now’ button
 6. Wordpress do the rest!
 
+OR
+
+1. download the plugin [here](https://github.com/OlivierCharlier/button_up_WP_plugin/raw/main/oli_plugin_april_2021.zip) (a .zip file)
+2. unzip it
+3. upload the folder _oli_plugin_april_2021_ via ftp to your online folder ../wp-content/plugins/
+4. go to WordPress admin area and visit Plugins » Installed Plugins page to check the installation. You must find the plugin named "Button UP!"
+
+
 __Notice__: this plugin doesn't work on WordPress.com.
 
-You need to hold your own wordpress site.
+You need to host your own WordPress site. 
 
 Look at this for more information on [WordPress.org](https://wordpress.org/)
 
@@ -66,11 +74,6 @@ OR
 5. your site is automatically updated with this new color for the UP button!
 
 
-## Thank you 
-
-I thank you for using my plugin
-
-
 ## To do list...
 
 To upgrade this plugin, here are a few ideas:
@@ -90,3 +93,13 @@ __Send me your code__ to add it to this plugin and upgrade to a new version.
 This plugin is a training project.
 
 Use it with caution, its safety has not been verified.
+
+# Feedback
+__All feedbacks are welcome__: send me an email to mail@olione.be
+
+(Copy my email address. It is intentionally not clickable.)
+
+
+## Thank you 
+
+I thank you for using my plugin !
