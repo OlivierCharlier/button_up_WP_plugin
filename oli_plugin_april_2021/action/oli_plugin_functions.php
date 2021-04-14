@@ -10,7 +10,7 @@ add_action('wp_head', 'oli_plugin_style');
 function oli_plugin_style(){
   echo('<!-- ----- CSS -  Oli Plugin Style ------ -->');
   ?>
-  <link rel="stylesheet" href="<?php bloginfo('url'); ?>/wp-content/plugins/oli_plugin/css/oli_plugin_style.php?v='.time()" type="text/css" media="screen">
+  <link rel="stylesheet" href="<?php bloginfo('url'); ?>/wp-content/plugins/oli_plugin_april_2021/css/oli_plugin_style.php?v='.time()" type="text/css" media="screen">
   <?php
 };
 
