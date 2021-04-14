@@ -63,8 +63,8 @@ OR
 2. on the setting page, choice your color
 3. click on the 'Color it' button
 4. check the color on the demo button
-5. your site is automatically updated with this new color for the UP button! 
-6. 
+5. your site is automatically updated with this new color for the UP button!
+
 
 ## Thank you 
 
