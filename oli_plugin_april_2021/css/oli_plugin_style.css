@@ -1,12 +1,4 @@
 
-<?php
-$absolute_path = explode('wp-content', $_SERVER['SCRIPT_FILENAME']);
-$wp_load = $absolute_path[0] . 'wp-load.php';
-require_once($wp_load);
-header("Content-type: text/css; charset=UTF-8");
-header('Cache-Control: max-age=31536000, must-revalidate');
-?>
-
 html {
   scroll-behavior: smooth;
 }
@@ -16,7 +8,7 @@ a#cRetour{
   justify-content: center;  
   border-radius: 15%;
   font-size:25px;
-  color:#fff;
+  color:#ffffff;
   box-shadow: 1px 1px 4px 1px rgba(255, 255, 255, 0.2);
   position:fixed;
   right:20px;
