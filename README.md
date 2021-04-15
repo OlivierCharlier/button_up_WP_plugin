@@ -98,8 +98,6 @@ Use it with caution, its safety has not been verified.
 # Feedback
 __All feedbacks are welcome__: send me an email to mail@olione.be
 
-(Copy my email address. It is intentionally not clickable.)
-
 
 ## Thank you 
 
