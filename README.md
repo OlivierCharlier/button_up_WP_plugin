@@ -83,6 +83,7 @@ To upgrade this plugin, here are a few ideas:
 * change the icone (choice: triangle; arrow1; arrow2;...)
 * choice: colorfull button or image? By giving the choice between x images
 * customize the speed: go up the web page with or without the 'scroll-behavior: smooth'
+* functions to uninstall the plugin, delete all folders and files, clean the data base
 * ...
 
 
