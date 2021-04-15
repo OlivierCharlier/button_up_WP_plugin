@@ -83,7 +83,12 @@ To upgrade this plugin, here are a few ideas:
 * change the icone (choice: triangle; arrow1; arrow2;...)
 * choice: colorfull button or image? By giving the choice between x images
 * customize the speed: go up the web page with or without the 'scroll-behavior: smooth'
+* functions to uninstall the plugin, delete all folders and files, clean the data base
 * ...
+
+## Known faults 
+* CSS : a#cRetour{ color:#ffffff; } is not always accepted
+* CSS : box-shadow is not always working
 
 
 __Send me your code__ to add it to this plugin and upgrade to a new version.
@@ -96,8 +101,6 @@ Use it with caution, its safety has not been verified.
 
 # Feedback
 __All feedbacks are welcome__: send me an email to mail@olione.be
-
-(Copy my email address. It is intentionally not clickable.)
 
 
 ## Thank you 
